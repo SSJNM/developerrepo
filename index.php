@@ -1,10 +1,10 @@
 <html>
 	<body bgcolor="orange">
-  This is the php code from developer side and it works inside docker container
+    Here is the latest update of php code by developer
   
   <pre>
   <?php
 		print `ifconfig`;
-	?>	
+  ?>	
   </pre>
 </html>
